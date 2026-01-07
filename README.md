@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on python, django, rest api, sql, postgresql.
+- 🔭 I’m currently working on python, FastAPI, restful api, sql, postgresql.
 - 🤔 I’m looking for help with Python.
 - 💬 Ask me about nothing.
 - 📫 How to reach me: minheinthu84@gmail.com
